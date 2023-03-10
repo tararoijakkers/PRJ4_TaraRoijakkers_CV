@@ -27,7 +27,7 @@ body {
 }
 
 /* Styles for lists in the document */
-
+	
 .biography-details li::before, .skill-list li::before {
 	content: ">";
 	font-weight: 800;
@@ -52,6 +52,9 @@ body {
 }
 .language-progress {
 	background-color: #F4A477 !important ;
+}
+.language-level {
+	border-color: #DB6C12 !important;
 }
 
 .border-color {
