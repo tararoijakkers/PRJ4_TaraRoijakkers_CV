@@ -3,6 +3,7 @@
 /* Import declaration to use Google Fonts - check https://fonts.google.com/ for details */
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@900&display=swap');
 
 /* Styles for the body */
 
@@ -59,4 +60,10 @@ body {
 
 .border-color {
 	border: 1px solid #DB6C12 !important ;
+}
+.fw-bolder {
+	color: #DB6C12;
+	font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+
 }
