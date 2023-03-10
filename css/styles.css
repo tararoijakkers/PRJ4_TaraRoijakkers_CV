@@ -48,5 +48,11 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
-	color:  #DB6C12;
+}
+.language-progress {
+	background-color: #F4A477 !important ;
+}
+
+.border-color {
+	border: 1px solid #DB6C12 !important ;
 }
